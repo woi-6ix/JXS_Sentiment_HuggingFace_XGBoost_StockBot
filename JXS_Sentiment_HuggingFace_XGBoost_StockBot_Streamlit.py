@@ -555,3 +555,4 @@ with st.expander("Methodology Notes", expanded=False):
         - Sentiment data limited to Yahoo Finance news sources
         - Model assumes stationarity of return/sentiment relationships
     """)
+
