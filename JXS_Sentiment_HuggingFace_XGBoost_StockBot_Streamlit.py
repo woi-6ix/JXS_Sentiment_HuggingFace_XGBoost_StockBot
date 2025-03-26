@@ -9,6 +9,7 @@
 
 #Virutual Environment: 3.10.16 ('.conda':conda)
 #pip install streamlit, feedparser, transformers, tf-keras, pandas, yfinance, datetime, matplotlib, pytz, python-dateutil, numpy, scikit-learn, xgboost
+#Successfully installed keras-3.9.0 numpy-2.1.3 tensorboard-2.19.0 tensorflow-2.19.0
 import streamlit as st
 import feedparser
 from transformers import pipeline
